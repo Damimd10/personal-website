@@ -19,7 +19,10 @@ function MyApp({ Component, pageProps }) {
         <link rel="stylesheet" href="css/animate.css" />
         <link rel="stylesheet" href="css/gradient.css" />
 
-        <title>Ryan - vCard / Resume / CV Template</title>
+        <title>Dra. Luciana Correa Tellechea - Abogada</title>
+        <meta name="description" content="Dra. Luciana Correa Tellechea - Abogada de Montevideo, Uruguay. Servicios legales especializados en derecho penal, derecho empresarial y más." />
+        <meta name="keywords" content="abogada, Montevideo, Uruguay, derecho penal, derecho empresarial, servicios legales, Luciana Correa Tellechea" />
+        <meta name="author" content="Dra. Luciana Correa Tellechea" />
         <link rel="shortcut icon" href="images/favicons/favicon.ico" />
       </Head>
       <PreLoader />

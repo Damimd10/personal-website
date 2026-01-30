@@ -63,6 +63,23 @@ const Index6 = () => {
   return (
     <Layout>
       <Head>
+        <title>Dra. Luciana Correa Tellechea - Abogada | Montevideo, Uruguay</title>
+        <meta name="description" content="Dra. Luciana Correa Tellechea - Abogada licenciada en Montevideo, Uruguay. Especializada en derecho penal, derecho empresarial, servicios legales y derechos de los animales. Consultas disponibles." />
+        <meta name="keywords" content="Dra. Luciana Correa Tellechea, abogada, Montevideo, Uruguay, derecho penal, derecho empresarial, servicios legales, abogado freelance, consultoría legal" />
+        <meta name="author" content="Dra. Luciana Correa Tellechea" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Dra. Luciana Correa Tellechea - Abogada" />
+        <meta property="og:description" content="Abogada licenciada en Montevideo, Uruguay. Especializada en derecho penal, derecho empresarial y servicios legales." />
+        <meta property="og:locale" content="es_UY" />
+        
+        {/* Twitter */}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="Dra. Luciana Correa Tellechea - Abogada" />
+        <meta name="twitter:description" content="Abogada licenciada en Montevideo, Uruguay. Especializada en derecho penal, derecho empresarial y servicios legales." />
+        
         <link rel="stylesheet" href="css/new-skin/new-skin.css" />
         <link rel="stylesheet" href="css/demos/demo-6-colors.css" />
       </Head>
